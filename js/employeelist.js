@@ -1,4 +1,4 @@
-var serviceURL = "https://levi.cis.indwes.edu/EDServices/";
+var serviceURL = "http://dictiondoctor.com/DDServices/";
 
 var employees;
 
